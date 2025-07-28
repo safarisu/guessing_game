@@ -1,2 +1,2 @@
 # guessing_game
-Simple Python terminal guessing game(Asyncio, WebSocket)
+Simple Python terminal Guessing Game(Asyncio, WebSocket). Client/server architecture. 
